@@ -1,0 +1,13 @@
+/* set de root */
+:root{
+    --variable-example: #ffffff;
+}
+
+/* reset css */
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
